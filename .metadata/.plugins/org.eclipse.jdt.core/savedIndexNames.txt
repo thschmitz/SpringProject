@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/.metadata/.plugins/org.eclipse.jdt.core
+3954776923.index
+63264785.index
