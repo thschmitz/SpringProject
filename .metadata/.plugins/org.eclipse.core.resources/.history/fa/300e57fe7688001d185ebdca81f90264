@@ -1,0 +1,13 @@
+package com.educandoweb.course.entities;
+
+public class User {
+	private Long id;
+	private String name;
+	private String email;
+	private String phone;
+	private String password;
+	
+	public User() { // Estou usando framework, eh obrigatorio ter um construtor vazio.
+		
+	}
+}
