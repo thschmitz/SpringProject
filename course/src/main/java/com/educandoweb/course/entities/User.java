@@ -1,12 +1,17 @@
 package com.educandoweb.course.entities;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 // Serializable - interface para transformar o objeto em bytes e poder trafegar na rede.
@@ -22,6 +27,10 @@ public class User implements Serializable{
 	private String email;
 	private String phone;
 	private String password;
+	
+	@JsonIgnore // Isso aqui eu faco para nao cair em um loop infinito, chama usuario que tem orders e cada ordem chama um usuario e assim infinitamente, dai ele nao cria conexao quando chamo no http essa classe
+	@OneToMany(mappedBy = "client") // Esse 'client' esta la no Order Schema, esta comentado la
+	private List<Order> orders = new ArrayList<>();
 	
 	public User() { // Estou usando framework, eh obrigatorio ter um construtor vazio.
 		
@@ -75,6 +84,10 @@ public class User implements Serializable{
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	
+	public List<Order> getOrders() {
+		return orders;
+	}
 
 	@Override
 	public int hashCode() {
@@ -92,5 +105,6 @@ public class User implements Serializable{
 		User other = (User) obj;
 		return Objects.equals(id, other.id);
 	}
+
 	
 }
