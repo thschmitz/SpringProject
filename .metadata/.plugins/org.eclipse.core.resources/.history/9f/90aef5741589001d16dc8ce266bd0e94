@@ -1,0 +1,8 @@
+package com.educandoweb.course.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class TestConfig {
+
+}

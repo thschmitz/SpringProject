@@ -201,3 +201,153 @@
 2022-12-31 11:02:17,450 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2022-12-31 11:02:17,451 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-31 11:02:17,453 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:11:47,710 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:11:47,716 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:11:47,718 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:11:54,369 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:11:54,374 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:11:54,377 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:11:58,306 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:11:58,311 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:11:58,313 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:12:14,830 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:12:14,835 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:12:14,837 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:12:23,160 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:12:23,165 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:12:23,167 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:14:18,724 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:14:18,730 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:14:18,733 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:14:28,079 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:14:28,083 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:14:28,085 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:14:37,664 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:14:37,669 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:14:37,671 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:14:43,017 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:14:43,021 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:14:43,023 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:15:01,239 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:15:01,260 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:15:01,262 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:15:21,178 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:15:21,184 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:15:21,186 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:15:31,701 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:15:31,706 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:15:31,707 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:15:33,773 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:15:33,778 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:15:33,780 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:16:36,364 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:16:36,369 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:16:36,370 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:16:44,265 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:16:44,270 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:16:44,272 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:16:45,361 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:16:45,366 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:16:45,368 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:17:31,512 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:17:31,518 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:17:31,520 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:18:18,068 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:18:18,072 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:18:18,074 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:18:21,251 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:18:21,255 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:18:21,257 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:18:50,422 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:18:50,426 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:18:50,428 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:18:56,220 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:18:56,226 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:18:56,228 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:18:59,336 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:18:59,359 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:18:59,360 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:20:08,962 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:20:08,967 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:20:08,970 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:21:14,011 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:21:14,016 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:21:14,017 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:32:33,723 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:32:33,728 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:32:33,730 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:32:42,785 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:32:42,789 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:32:42,791 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:32:59,061 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:32:59,087 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:32:59,090 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:33:01,182 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:33:01,186 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:33:01,188 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:34:11,960 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:34:11,964 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:34:11,966 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:34:54,093 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:34:54,098 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:34:54,099 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:35:31,162 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:35:31,166 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:35:31,168 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:35:32,226 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:35:32,231 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:35:32,232 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:36:08,051 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:36:08,056 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:36:08,057 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:37:19,050 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:37:19,055 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:37:19,057 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:37:45,663 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:37:45,668 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:37:45,670 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:37:46,684 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:37:46,689 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:37:46,690 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:38:30,225 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:38:30,229 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:38:30,231 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 11:38:33,476 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 11:38:33,480 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 11:38:33,482 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:45:26,983 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:45:26,987 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:45:26,989 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:45:48,285 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:45:48,291 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:45:48,292 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:48:19,908 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:48:19,913 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:48:19,915 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:48:29,257 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:48:29,264 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:48:29,266 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:48:44,556 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:48:44,561 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:48:44,563 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:48:45,598 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:48:45,611 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:48:45,615 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:48:46,634 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:48:46,639 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:48:46,640 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:50:12,395 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:50:12,400 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:50:12,402 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:50:19,574 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:50:19,592 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:50:19,594 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:50:42,246 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:50:42,251 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:50:42,253 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:50:49,817 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:50:49,835 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:50:49,837 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources
+2022-12-31 12:52:51,311 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-31 12:52:51,315 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-31 12:52:51,317 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /media/ssd-home/thomas/Projetos/GitHub/workshop-springboot/course/src/test/resources

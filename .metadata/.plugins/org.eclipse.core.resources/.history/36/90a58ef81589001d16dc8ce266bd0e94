@@ -1,0 +1,19 @@
+package com.educandoweb.course.config;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.educandoweb.course.repositories.UserRepository;
+
+@Configuration
+@Profile("test")
+public class TestConfig {
+
+	//Database seeding! -> Salvar dados ou popular os dados;
+	
+	@Autowired // -> Associa uma instancia dela aqui dentro
+	private UserRepository userRepository;
+	
+	
+}
