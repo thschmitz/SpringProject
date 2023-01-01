@@ -109,8 +109,6 @@ public class Order implements Serializable{
 			sum += x.getSubtotal();
 		}
 		
-		System.out.println("CHAMOU");
-		
 		return sum;
 	}
 
