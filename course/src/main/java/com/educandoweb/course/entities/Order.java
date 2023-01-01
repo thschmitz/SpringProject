@@ -33,11 +33,9 @@ public class Order implements Serializable{
 	@ManyToOne
 	@JoinColumn(name = "client_id")
 	private User client; // Esse client aqui, o nome tem que ser igual, esse aqui que vai ser mapeado
-	
 	private Integer orderStatus; // OrderStatus no global, aqui vai ser Integer
 	
-	@OneToMany(mappedBy="id.order")
-	
+	@OneToMany(mappedBy="id.order") // Esse id.order chega la no OrderItemPK -> private Long id;
 	private Set<OrderItem> items = new HashSet<>();
 	
 	public Order() {
