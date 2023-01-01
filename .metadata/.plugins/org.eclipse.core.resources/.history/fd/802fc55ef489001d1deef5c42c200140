@@ -1,0 +1,6 @@
+package com.educandoweb.course.entities.pk;
+
+public class OrderItemPK {
+	private Order order;
+	private Product product;
+}

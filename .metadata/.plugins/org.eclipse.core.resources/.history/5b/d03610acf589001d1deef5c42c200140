@@ -1,0 +1,24 @@
+package com.educandoweb.course.entities;
+
+import com.educandoweb.course.entities.pk.OrderItemPK;
+
+public class OrderItem {
+	private OrderItemPK id;
+	private Integer quantity;
+	
+	private Double price;
+	
+	public OrderItem() {
+		
+	}
+
+	public OrderItem(OrderItemPK id, Integer quantity, Double price) {
+		this.id = id;
+		this.quantity = quantity;
+		this.price = price;
+	}
+	
+	
+	
+	
+}
