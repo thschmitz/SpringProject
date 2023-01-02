@@ -13,8 +13,6 @@ import com.educandoweb.course.repositories.UserRepository;
 import com.educandoweb.course.service.exceptions.DatabaseException;
 import com.educandoweb.course.service.exceptions.ResourceNotFoundException;
 
-import jakarta.persistence.EntityNotFoundException;
-
 @Service // Para poder ser injetado pelo autowired la dentro do UserResource;
 public class UserService {
 
@@ -52,15 +50,10 @@ public class UserService {
 	}
 	
 	public User update(Long id, User obj) {
-		try {
-			User entity = repository.getReferenceById(id); // Nao vai ao banco de dados, ele so prepara o objeto para mexer e depois efeturar uma operacao com banco de dados
-			updateData(entity, obj);
-			
-			return repository.save(entity);	
-		} catch(EntityNotFoundException e) {
-			throw new ResourceNotFoundException(id);
-		}
+		User entity = repository.getReferenceById(id); // Nao vai ao banco de dados, ele so prepara o objeto para mexer e depois efeturar uma operacao com banco de dados
+		updateData(entity, obj);
 		
+		return repository.save(entity);
 		
 	}
 	
