@@ -1,0 +1,5 @@
+package com.educandoweb.course.service.exceptions;
+
+public class DatabaseException {
+
+}
